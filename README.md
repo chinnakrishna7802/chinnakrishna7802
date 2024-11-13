@@ -32,7 +32,7 @@
 ###
 <h3>How to reach me:-</h3>
 <h4>
-Mail address:- krishnaachary.n@gmail.com<br>
+Mail address:- <href>krishnaachary.n@gmail.com</href><br>
 LinkedIn Profile  :- https://www.linkedin.com/in/chinnakrishna/
 </h4>
 
