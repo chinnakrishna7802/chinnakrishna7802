@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Chinnakrishna  from Mumbai,India.An individual with a strong enthusiasm for data, My curriculum is centered around machine learning and data science so I try my best of my ability to address real-world problems and my soft skills include good listening skill and problem solving.</h2>
+<h2 align="left">Hi 👋! My name is Chinnakrishna  from Mumbai,India.An individual with a strong enthusiasm for data, My curriculum is centered around machine learning and data science so I try my best of my ability to address real-world problems.</h2>
 
 ###
 
