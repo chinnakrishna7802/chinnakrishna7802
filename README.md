@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Chinnakrishna  from Mumbai,India.An individual with a strong enthusiasm for data, My curriculum is centered around machine learning and data science so I try my best of my ability to address real-world problems.</h2>
+<h2 align="left">Hi 👋! My name is Chinnakrishna  from Mumbai,India. An individual with a strong enthusiasm for data, My curriculum is centered around machine learning and data science so I try my best of my ability to address real-world problems.</h2>
 
 ###
 
@@ -30,7 +30,7 @@
 </div>
 
 ###
-<h3>How to reach me:-</h3>
+<h3>Lets Connect 🤝:-</h3>
 <h4>
 Mail address:- <href>krishnaachary.n@gmail.com</href><br>
 LinkedIn Profile  :- https://www.linkedin.com/in/chinnakrishna/
